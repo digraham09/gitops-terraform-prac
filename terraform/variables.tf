@@ -9,3 +9,5 @@ variable "clusterName" {
   type        = string
   default     = "gitops-eks-practice-cluster"
 }
+
+### End of recently edited files
