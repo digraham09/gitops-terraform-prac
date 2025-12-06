@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "gitops-eks-practice-cluster"
 }
 
-### End of recently edited files
+### files
