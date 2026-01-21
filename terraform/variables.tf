@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "gitops-eks-practice-cluster"
 }
 
-### files test
+### files test after pause break ###
